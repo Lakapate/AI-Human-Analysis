@@ -21,12 +21,13 @@ This project analyzes differences between AI-generated and human-written essays 
 - Jupyter Notebook
 
 ## 📁 Project Structure
+```text
 AI_Human_Essay_Analysis/
 ├── data/ # Dataset files
 ├── notebooks/ # Jupyter notebooks
 ├── plots/ # Generated visualizations
 ├── README.md # Project documentation
-
+```
 
 ## 📈 Key Findings
 1. **Word Count**: AI essays are 15.6% longer/shorter
@@ -37,9 +38,9 @@ AI_Human_Essay_Analysis/
 
 ## 📸 Sample Visualizations
 
-![Feature Comparison]((https://github.com/Lakapate/AI-Human-Analysis/blob/main/AI_Human_Essay_Analysis/plots/feature_differences.png))
+![Feature Comparison](AI_Human_Essay_Analysis/plots/feature_differences.png)
 
 ## 👤 Author
 [Prathamesh Lakapate ]
-- GitHub: [yourusername](https://github.com/Lakapate)
+- GitHub: [Lakapate](https://github.com/Lakapate)
 - LinkedIn: [www.linkedin.com/in/prathamesh-lakapate-218890282]
